@@ -1,0 +1,20 @@
+{
+  "name": "bmi-calculator",
+  "version": "1.0.0",
+  "description": "A simple BMI Calculator web application",
+  "main": "index.html",
+  "scripts": {
+    "start": "python3 -m http.server 8000",
+    "serve": "npx serve .",
+    "build": "echo 'No build step required for static site'",
+    "deploy": "echo 'Deploy using your preferred platform'"
+  },
+  "keywords": ["bmi", "calculator", "health", "fitness", "javascript"],
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "."
+  },
+  "homepage": "."
+}
